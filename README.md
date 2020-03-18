@@ -127,7 +127,7 @@ The Edit Drug Synonym List exists to create a dictionary of preferred drug names
 The Edit Drug Synonym List widget opens gnumeric with the Compound_Synonyms.csv file. The columns are not named in this file. The first column is the preferred name for a drug, while the synonym names go in the next columns for the row, one synonym per column. The preferred name is case-sensitive, but the synonym names are not. 
 
 For example:
-
+| True name | Synonym 1 | Synonym 2 |
 | ------------- | -------------------------- | --------- |
 | larotrectinib |	Larotrectinib (LOXO-101) |	loxo-101 |
 | Venetoclax    |	Venetoclax (ABT-199)     |	abt-199  |
